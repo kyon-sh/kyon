@@ -1,0 +1,23 @@
+blank_issues_enabled: false
+contact_links:
+  - name: Kyon GitHub Search
+    url: https://github.com/kyon-sh/kyon/issues?q=is%3Aissue+is%3Aopen+a+sort%3Areactions-%2B1-desc
+    about: Search Kyon's open bugs and enhancements.
+  - name: Kyon Documentation
+    url: https://docs.kyon.sh/support-and-billing/known-issues?q=
+    about: Documentation for features, known issues, troubleshooting, keyboard shortcuts, telemetry table, and more!
+  - name: Kyon Changelog
+    url: https://docs.kyon.sh/changelog
+    about: See our changelog to learn about new features, improvements, bug fixes, and Oz updates.
+  - name: Contact Us
+    url: https://docs.kyon.sh/support-and-community/troubleshooting-and-support/sending-us-feedback
+    about: Submit feedback and contact the Kyon support team for things like Billing, Enterprise, and other issues.
+  - name: Kyon Preview Slack Community
+    url: https://go.kyon.sh/join-preview
+    about: Discuss give feedback on the new features with other Kyon Preview users.
+  - name: Kyon Homepage
+    url: https://www.kyon.sh/
+    about: Homepage for all things Kyon.
+  - name: Kyon Licenses
+    url: https://docs.kyon.sh/support-and-community/privacy-security-and-licensing/open-source-licenses
+    about: See the open source projects Kyon depends on and their licenses.
