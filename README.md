@@ -1,4 +1,14 @@
+<div align="center">
+
+<img src="assets/kyon.png" alt="" width="120" height="120">
+
 # Kyon
+
+**No account. No telemetry. Nothing between you and your shell.**
+
+[Download](../../releases/latest) &middot; [Issues](../../issues) &middot; [Source](#source)
+
+</div>
 
 Kyon is a terminal: a GPU-rendered, block-structured shell client with a built-in
 editor, code search, SSH-native remote work, and AI assistance that runs against
