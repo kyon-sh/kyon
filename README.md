@@ -15,11 +15,16 @@ Every release on this repository carries:
 
 | Artifact | Platform |
 |---|---|
-| `Kyon-*.dmg` | macOS (Apple Silicon), signed and notarized |
-| `kyon_*.deb`, `kyon-*.rpm`, `Kyon-*.AppImage` | Linux x86_64 |
-| `Kyon-*-setup.exe` | Windows x64 / arm64 |
+| `Kyon.dmg` | macOS, Apple Silicon — signed and notarized |
+| `Kyon-x86_64.AppImage` | Linux x86_64 |
+| `Kyon-windows-<arch>-setup.exe` | Windows x64 / arm64, installer |
+| `Kyon-windows-<arch>-portable.zip` | Windows x64 / arm64, no install |
 | `kyon-web-*.tar.gz` | the browser client, served by `serve-wasm` |
 | `kyon-src-*.tar.gz` | complete source for that build |
+
+The Windows builds are unsigned, so SmartScreen will warn on first run — "More
+info" then "Run anyway". The macOS build is signed with a Developer ID and
+notarized, and needs nothing.
 
 ## Source
 
