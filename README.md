@@ -48,9 +48,9 @@ newer.
 
 ```sh
 sudo install -d /etc/apt/keyrings
-curl -fsSL https://kyon-sh.github.io/kyon2/apt/kyon2.asc \
+curl -fsSL https://kyon.sh/kyon2/apt/kyon2.asc \
   | sudo tee /etc/apt/keyrings/kyon2.asc > /dev/null
-echo "deb [signed-by=/etc/apt/keyrings/kyon2.asc] https://kyon-sh.github.io/kyon2/apt stable main" \
+echo "deb [signed-by=/etc/apt/keyrings/kyon2.asc] https://kyon.sh/kyon2/apt stable main" \
   | sudo tee /etc/apt/sources.list.d/kyon2.list
 sudo apt update && sudo apt install kyon2
 ```
