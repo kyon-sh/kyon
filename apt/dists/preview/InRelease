@@ -1,0 +1,29 @@
+-----BEGIN PGP SIGNED MESSAGE-----
+Hash: SHA512
+
+Architectures: amd64
+Codename: preview
+Components: main
+Date: Mon, 12 Oct 2026 12:53:01 +0000
+Label: Kyon2
+Origin: Kyon2
+Suite: preview
+MD5Sum:
+ 043437475ecb05307fd0cbda5903df74              919 main/binary-amd64/Packages
+ c982f4e9aacbd3458a27c147b312d22a              610 main/binary-amd64/Packages.gz
+SHA1:
+ a674a7858d3d1ec5cbc05ea9f7ad9e67bdc96924              919 main/binary-amd64/Packages
+ f3856fbaaa7e1141d0c83986b64d89e7559a1f23              610 main/binary-amd64/Packages.gz
+SHA256:
+ ce72ff8e6b8746cf61be58882c66925526be7c6886956d1d382376b168228341              919 main/binary-amd64/Packages
+ 82b2191729f6588b7a968d16f7147955ca4b9647063fe26700c72390518d8058              610 main/binary-amd64/Packages.gz
+SHA512:
+ 41ba5b954f1f74c2958fed9dbb837150fdef8de4a105a626ee1cd7effd296a0e95dde31a198b9bb259183b5e1a1354301c79ddf67a0bd889ddb6b7517faf7e83              919 main/binary-amd64/Packages
+ ee9168a78fd10c2bea7f58fd7df7113194e4ae0c89d1a97398af102732bb15cf1408cea7ed11d3ee92487585f204aac65c7ea5db52d232fe0ba5a7e9c1bb4cd4              610 main/binary-amd64/Packages.gz
+-----BEGIN PGP SIGNATURE-----
+
+iHUEARYKAB0WIQSUkAXtCDnfUAW5ygZJK6QC03a3iAUCaszYLQAKCRBJK6QC03a3
+iFISAPoCa+3rpoO0/JS36zkzl9S15zmFI5hWlq5LkWDl2TpRLQEA/GMr42Cef8hR
+tNaOcKiuTy5OMSv+V73wa2g830w3tQ8=
+=Fzqd
+-----END PGP SIGNATURE-----
