@@ -20,6 +20,26 @@ Description: Terminal with blocks, kept sessions and an agent beside every shell
 
 Package: kyon2
 Architecture: amd64
+Version: 0.0.11
+Priority: optional
+Section: utils
+Maintainer: Ryowave <https://kyon.sh>
+Installed-Size: 125860
+Depends: libc6 (>= 2.39), libgcc-s1, libssl3t64
+Recommends: libxkbcommon0, libxkbcommon-x11-0, libwayland-client0, libx11-6, libx11-xcb1, libxcursor1, libxrandr2, libxi6, libfontconfig1
+Filename: pool/stable/kyon2_0.0.11_amd64.deb
+Size: 27260440
+MD5sum: 120fbfdd21720b0cad22eda828b4e2ac
+SHA1: a12fb07e964f0e448e03e5fb40effe22d9645275
+SHA256: c2a0ab5d47c434bd17c6cb6e889f845b9033a4798b4d83038bffcc49c4f3d15d
+SHA512: 318584711f4a93182a33612530655412253ee0d7458623cbc9292cf8100e2b5c60cbb37f72e880dc9152f465c61f04b5e2097a4b6c0a31616cc0754a17192cdb
+Homepage: https://kyon.sh
+Description: Terminal with blocks, kept sessions and an agent beside every shell
+ Kyon2 keeps each shell's output as blocks, keeps sessions running across
+ restarts, and puts an agent beside every shell.
+
+Package: kyon2
+Architecture: amd64
 Version: 0.0.9
 Priority: optional
 Section: utils
