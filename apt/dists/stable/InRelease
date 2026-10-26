@@ -4,30 +4,30 @@ Hash: SHA512
 Architectures: amd64
 Codename: stable
 Components: main
-Date: Sun, 25 Oct 2026 09:56:02 +0000
+Date: Mon, 26 Oct 2026 09:55:05 +0000
 Label: Kyon2
 Origin: Kyon2
 Suite: stable
 MD5Sum:
- 040b0cd02887eab5a911e2dc4b67586a             1444 Release
- d9b637031dd112b36683076d55e1f756             2763 main/binary-amd64/Packages
- c5e469b1343948cdc943ebeee88aae62             1001 main/binary-amd64/Packages.gz
+ 450cbe818fed1e25abf20b6709239b55             1444 Release
+ 8a7c43e5f2e7fec9a69e4ed4c45dd8f5             2763 main/binary-amd64/Packages
+ 3f682b20a2ca0b671a807d68c6c45b58             1000 main/binary-amd64/Packages.gz
 SHA1:
- 8aeceb94201f22884dc3c0880bed6742771aa609             1444 Release
- f25b1096431d550f285868cd89a48d294a1646ea             2763 main/binary-amd64/Packages
- eaa00e796ea5ce3b114a09c278767a3095e96f43             1001 main/binary-amd64/Packages.gz
+ df92f6f3afe2b675b99dab163bbe3b0cad3dac28             1444 Release
+ db361544924d61426f5ea11494155ec4e4cdad04             2763 main/binary-amd64/Packages
+ 90246a05bb25ed5881c81e49ce57bfc5bd40f4fa             1000 main/binary-amd64/Packages.gz
 SHA256:
- 4d8d6e164818351d468675051ff49b44b92f2af02ce16f7c6ad9b99014a2f634             1444 Release
- d9aab484867bf109afe27afe180ef9194b347087c6100ed31a721815c51172ff             2763 main/binary-amd64/Packages
- 7f779980bbe5de3d242f546503dfc6a4f4b315e4e7ac62ad3a8a061d68d589b8             1001 main/binary-amd64/Packages.gz
+ 030410ef0eb4e4fa0e5fa03d753f32c69e46d39ffa6c8855e87682f2d51c3f73             1444 Release
+ d78fe8032b098b339c94469febbc6ce1c8501851616384d5e8049d3ca26cf718             2763 main/binary-amd64/Packages
+ 87d94f5514caca1faccb40e8f79b45242362db5304ba074cd44f0795f62f535a             1000 main/binary-amd64/Packages.gz
 SHA512:
- 63124b4be2a42be4a88f6b8888308f9a7ce527d29a8776569f617ea266b74f8b994157a5a5e04a948a507d1340e590f3977b7cae10eaa237e1641baafeee551a             1444 Release
- 4654347a19c961de9f00d8bf0ee89433a9b300279725e1e1074c970d840f84691d5f78a3239f2016ed9068c51b994c9cd7c4c7a9a66e43c8d98238f3b743ce00             2763 main/binary-amd64/Packages
- 03d174e6bda146531df54aa463c4f9d083fbac09bce14424d5474f5e69bdc33dc850306103e5ac325cff939c5576bf46aedee69d6b4038b350bff4363bb97276             1001 main/binary-amd64/Packages.gz
+ ba9453c7436be9d6b064bc9bfa63d24efff81e1e12aeb1eabbe24d4f9f6cb712bdf077d3d7fe693af30c4054e47785c0d9ecbb57cca740105379e710d44fd899             1444 Release
+ 44e97dd590b3b08190e5b1cbeca1c28689ac70496e99d66487323bd567e04ca227bcdd24f6b169e4c76c3b4347b057489b15ac148f13b4f6253b52a25885844e             2763 main/binary-amd64/Packages
+ c34c3ef55e2c8d3ad270c50c9c95c551de6337381e643369881a69842e43674f43e481b508fd91625ef6aac86156ce26f8d33585b68db5574e799edb1231d051             1000 main/binary-amd64/Packages.gz
 -----BEGIN PGP SIGNATURE-----
 
-iHUEARYKAB0WIQSUkAXtCDnfUAW5ygZJK6QC03a3iAUCat3SMgAKCRBJK6QC03a3
-iIjqAQCYg5Mhoq8GahQvptaSdGRJP4lBMpdrtsvkfOeU1GvXxwEA6PnHwEzXOMy2
-68m+R82URjx3Qbaam9gZJe8XbZifrgU=
-=K76J
+iHUEARYKAB0WIQSUkAXtCDnfUAW5ygZJK6QC03a3iAUCat8jeQAKCRBJK6QC03a3
+iKCnAQCl3UWNzfrraGCSls1HVxwDnaxKeUREzgCjIfv8RWt8vgEA/nrjO7RHUhc2
+xT4tDWbV3NVSDh0uQ8jjNqfEFtCd3Qo=
+=D9NH
 -----END PGP SIGNATURE-----
