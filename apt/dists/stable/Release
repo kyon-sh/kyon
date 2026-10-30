@@ -1,23 +1,23 @@
 Architectures: amd64
 Codename: stable
 Components: main
-Date: Thu, 29 Oct 2026 23:10:27 +0000
+Date: Fri, 30 Oct 2026 07:56:11 +0000
 Label: Kyon2
 Origin: Kyon2
 Suite: stable
 MD5Sum:
- 52b5b2f6aa65df5c398e67123c074cd4             1444 Release
- b2eb76d12c3c5c69833739b58cf5072d             2763 main/binary-amd64/Packages
- 6a283bf94e9c2e871d602246c03a4162              998 main/binary-amd64/Packages.gz
+ 860e5dd113e42da1e683b6e522e5c429             1444 Release
+ 4f3e55bc95428a3be6ffe51d4a911b36             2763 main/binary-amd64/Packages
+ 3ff30a558aaa3f22be699fbe80726226              998 main/binary-amd64/Packages.gz
 SHA1:
- d4894580fd3e87c139e7100c24dc8572ff1f86f0             1444 Release
- 49139d686718ac308cb4d1d9865f6301c2bf6a83             2763 main/binary-amd64/Packages
- 850711d24e0720d216ece5779612786024849f9e              998 main/binary-amd64/Packages.gz
+ 9d3857037679fc313097038a9dd55a7b696151dd             1444 Release
+ c7c84390f6c5cbf6ad243948ffd336cf1504e69c             2763 main/binary-amd64/Packages
+ 4290aeb6753ad2c159bafd681b73793dd0bde7ef              998 main/binary-amd64/Packages.gz
 SHA256:
- 5c0ac25980f9569da7e035c7b15051aafb1a7af0e2bb72e30f8228691788a14f             1444 Release
- 99221f19fdce05805f28f17e21164270468b08f849e55a2974d15ba3c0196ad6             2763 main/binary-amd64/Packages
- 2dbd55ee1349bada824e3aaa82a2bd1175ea2a57da9056bcb971d02f67d3bd46              998 main/binary-amd64/Packages.gz
+ 1717fab29794dff6b62e34091b5fba2a1a9b5107d9c9424c2bfe27eb57c025ad             1444 Release
+ 0c70d6ddae30a422769fa465cf80db9ee538c60a3bdb6db40f9b69cb5e514a8f             2763 main/binary-amd64/Packages
+ a434c3c1d3fab1f238f50a868f19ef72b8b7be14fa2aae78eb69da879a7882e6              998 main/binary-amd64/Packages.gz
 SHA512:
- 6ce84ef44fa386448f8dfb07c3efe8bf669c38273de3b5f35a6cb2f7f85e9d6c9b29813302ef969f2387abbae1cf941febbe325c014956849c6417c2a849be39             1444 Release
- af6c8642300a96ab61473a68694274df3a64ea724062932b50cc81a3b487a570a9319c19f2fed4092d91b167c786a00c004ccea14b0133ffc8fc3d3a1290860d             2763 main/binary-amd64/Packages
- cd26e47c5ab50a14794a6c5e80b1a7039253b81ddd745da2bd7aa4bc71a94bc32c6723c459c5de22e83b3c4c9a6e29d72ce52ab7721379e3ac1edb4cf51eeefd              998 main/binary-amd64/Packages.gz
+ 2431c9ee0a4748670c817c4af8782388d0d592f272da285a5066ca3f47b1cd7dd8445136618f023af0b1f8cefa467be098657557c65e8fb3f0b7691dda8d8495             1444 Release
+ 6139339d376b9df7b081e072a29da57990777be38818c8e161af1dab244c4467acf89b8059091de439cdaa2a5f6c31bff1eb4fc8b884af2df996d2d32cba8b73             2763 main/binary-amd64/Packages
+ 1ee59524a34c6c05ae3a62d84e5adbb17828af91b37b3b032fb9459a89e95811e9dc643af477851731309df8d11de68d347a29a25137f7f568f7e76333a7cb75              998 main/binary-amd64/Packages.gz
