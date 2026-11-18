@@ -46,22 +46,22 @@ Description: Terminal with blocks, kept sessions and an agent beside every shell
 
 Package: kyon
 Architecture: amd64
-Version: 0.1.9
+Version: 0.1.12
 Priority: optional
 Section: utils
 Maintainer: Ryowave <https://kyon.sh>
-Installed-Size: 142060
+Installed-Size: 142696
 Provides: kyon2
 Depends: libc6 (>= 2.39), libgcc-s1, libssl3t64
 Recommends: libxkbcommon0, libxkbcommon-x11-0, libwayland-client0, libx11-6, libx11-xcb1, libxcursor1, libxrandr2, libxi6, libfontconfig1
 Conflicts: kyon2
 Replaces: kyon2
-Filename: pool/preview/kyon_0.1.9_amd64.deb
-Size: 32226480
-MD5sum: 8cb58121527fc6cf92df7c799c791922
-SHA1: 5162aa5ba78631cbd907edfe32b45c71f11405ce
-SHA256: 23b5087ef2c0ef0a1bf8ff3f9448827652a2baef1dccba63a57f62c8c2c6cc30
-SHA512: 0013e20f20407c84d6b3130822d1cbd8a6d640168b753731c7bf9ac9421c55296ed1057e15ab6e065469cce71bde25f5aec1d900ef97bf563bfeace533e03829
+Filename: pool/preview/kyon_0.1.12_amd64.deb
+Size: 32352312
+MD5sum: 32490e9079a78a56f28402d9a3652fcf
+SHA1: ab3537b059ac00262e609a6361e3716e02292cb8
+SHA256: 13648ba3e645f5e27ea49256699fec3740a4f9fbeb60575e32aabe5ae3eb0025
+SHA512: 0facc5d9cef3741569c3569331e91d872c75a16737520d8d85c53a9197fd468d3457336b855a1e492c9fba573fa1f7cf5c1cf6ba3743364e15833c93662f8a9d
 Homepage: https://kyon.sh
 Description: Terminal with blocks, kept sessions and an agent beside every shell
  Kyon keeps each shell's output as blocks, keeps sessions running across
