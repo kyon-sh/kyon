@@ -1,28 +1,5 @@
 Package: kyon
 Architecture: amd64
-Version: 0.2.22
-Priority: optional
-Section: utils
-Maintainer: Ryowave <https://kyon.sh>
-Installed-Size: 150016
-Provides: kyon2
-Depends: libc6 (>= 2.39), libgcc-s1, libssl3t64
-Recommends: libxkbcommon0, libxkbcommon-x11-0, libwayland-client0, libx11-6, libx11-xcb1, libxcursor1, libxrandr2, libxi6, libfontconfig1
-Conflicts: kyon2
-Replaces: kyon2
-Filename: pool/preview/kyon_0.2.22_amd64.deb
-Size: 34039180
-MD5sum: 683b14d644a5b76366001a33b9e5850f
-SHA1: 0f198ad8f4654b5531fde18c0ed404615cf869e9
-SHA256: 1d92062fb9545ba594d644c5843b0685288754556bdda6c79bbbee7bef567f75
-SHA512: 5fa391d1ad31cce143e1d396c735c087fa0efa97e9c89c0341c8046a18965ca1d54e14a551ff941bb3cf3b021af3c335f2bc0d2b77df67d254a353698f07cccc
-Homepage: https://kyon.sh
-Description: Terminal with blocks, kept sessions and an agent beside every shell
- Kyon keeps each shell's output as blocks, keeps sessions running across
- restarts, and puts an agent beside every shell.
-
-Package: kyon
-Architecture: amd64
 Version: 0.2.23
 Priority: optional
 Section: utils
@@ -62,6 +39,29 @@ MD5sum: 6c26110d287df6fb36d6f9bcf33ae429
 SHA1: 3b858843673109438b16a57e255b802bc54f18dc
 SHA256: c912384415f09efc93c7f266859e21068741e94335f0ec65ad4152fa04446335
 SHA512: b6bd478b2d5c1a367948c1937ae36acaf68c7dd14a0ed276e10989857f4451a44e7a79de6642e49f4ed5352b12e675dd86d7765f9be17505731a55b6351bc5af
+Homepage: https://kyon.sh
+Description: Terminal with blocks, kept sessions and an agent beside every shell
+ Kyon keeps each shell's output as blocks, keeps sessions running across
+ restarts, and puts an agent beside every shell.
+
+Package: kyon
+Architecture: amd64
+Version: 0.2.25
+Priority: optional
+Section: utils
+Maintainer: Ryowave <https://kyon.sh>
+Installed-Size: 150036
+Provides: kyon2
+Depends: libc6 (>= 2.39), libgcc-s1, libssl3t64
+Recommends: libxkbcommon0, libxkbcommon-x11-0, libwayland-client0, libx11-6, libx11-xcb1, libxcursor1, libxrandr2, libxi6, libfontconfig1
+Conflicts: kyon2
+Replaces: kyon2
+Filename: pool/preview/kyon_0.2.25_amd64.deb
+Size: 34037156
+MD5sum: 1238e2325b87d519c152e9b34c31fb50
+SHA1: 3746ec0185fd424f7a7f341c9de80afc9ed4870a
+SHA256: 6ebabbc4080d4a90d22e3b7e8d97dedfb9ce1634d72c9045ec1cd2b7129900ef
+SHA512: 2b4ec6f05a729dcea158418c954244eaafc64862362635339bead6cb0c9c7fb03e008b334d0986ffa49f3ee91d7a1b5f32e08b6ac67667ad426b9994d85df215
 Homepage: https://kyon.sh
 Description: Terminal with blocks, kept sessions and an agent beside every shell
  Kyon keeps each shell's output as blocks, keeps sessions running across
